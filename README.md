@@ -1,0 +1,16 @@
+# Stops Timetables
+
+Make it easier to create printable HTML timetables for public transport.
+
+Generate the html file and open in a browser.
+
+```bash
+./bin.mjs > index.html
+```
+
+## Roadmap
+
+- Use semantically correct HTML.
+- Move the data out into a JSON file.
+- Create a nicer cli experience with usage docs.
+- Support using the timetables in webpages.
